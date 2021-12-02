@@ -1,6 +1,9 @@
 ﻿/*
- * Bill Nicholson
- * nicholdw@ucmail.uc.edu
+ * Steven Hatton
+ * hattonsn@mail.uc.edu
+ * IT3045 Final Exam
+ * Create a GUI
+ * Due December 7th, 2021
  */
 
 using JokeManagerNamespace;
